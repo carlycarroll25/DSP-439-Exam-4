@@ -12,3 +12,4 @@ The project includes a Python script that:
 Clone this repository to your local terminal using the following command:
 ```bash
 git clone https://https://github.com/carlycarroll25/DSP-439-Exam-4.git
+cd DSP-439-Exam-4
